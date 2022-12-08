@@ -14,7 +14,7 @@ Twisted==19.2.1
 asn1crypto==0.24.0
 attrs==19.1.0
 autobahn==19.8.1
-certifi==2019.6.16
+certifi==2022.12.7
 constantly==15.1.0
 enum34==1.1.6
 hyperlink==19.0.0
